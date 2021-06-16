@@ -1,5 +1,5 @@
 # TSADR
-Official PyTorch code for our paper "Temporal Spatial-Adaptive Interpolation with Deformable Refinement for Electron Microscopic Images" [[arXiv]](https://arxiv.org/abs/2101.06771)
+Official PyTorch code for our paper "Temporal Spatial-Adaptive Interpolation with Deformable Refinement for Electron Microscopic Images" 
 
 The cremi_triplet dataset which include three sub-datasets are available [[here]](https://drive.google.com/file/d/1bmwArABD4iifogokdyN8srIMY2_Qnf4S/view?usp=sharing). 
 ```
